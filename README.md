@@ -6,19 +6,33 @@ A curated list of modern fonts and type foundries
 ### Monospaced
 
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+co&categoryFilters=Appearance:/Monospace/Monospace)
+- [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
 - [Geist Mono](https://fonts.google.com/specimen/Geist+Mono?query=geist+mono&categoryFilters=Appearance:/Monospace/Monospace)
 - [MD IO](https://mass-driver.com/typefaces/md-io/)
-- Roboto Mono
+- [Model Standard](https://typefaces.pizza/type/modelstandard)
+- [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace)
 
 ### Sans Serif
 
+- [Circular](https://lineto.com/typefaces/circular/)
+- [Euclid](https://www.swisstypefaces.com/fonts/euclid/)
 - [Geist](https://vercel.com/font)
+- [Gramatika](https://type.tmpstate.net/preview/Gramatika/Regular/try/)
 - [Inter](https://fonts.google.com/specimen/Inter?query=inter)
+- [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans)
 
-### Serif
+### Grotesque
+
+- [FK Grotesk Neue](https://fonts.floriankarsten.com/fk-grotesk-neue)
+- [Founders Grotesk](https://klim.co.nz/collections/founders-grotesk/)
+- [GT America](https://www.grillitype.com/typeface/gt-america)
+- [Helvetica](https://www.monotype.com/fonts/helvetica)
+- [Neue Haas Grotesk](https://commercialtype.com/catalog/neue_haas_grotesk)
+- [Steinbeck](https://type.tmpstate.net/preview/Steinbeck/Regular/try/)
 
 ### Experimental
 
+- [Adhesion](https://foundry.basement.studio/fonts/adhesion)
 - [MD Thermochrome](https://mass-driver.com/typefaces/md-thermochrome/)
 - [Raskal Oner](https://www.swisstypefaces.com/fonts/raskal-oner/?r=1762280414#about)
 
@@ -26,23 +40,32 @@ A curated list of modern fonts and type foundries
 
 - [ANRT Nancy](https://anrt-nancy.fr/en/fonts)
 - [ABCDinamo](https://abcdinamo.com/)
+- [Basement Foundry](https://foundry.basement.studio/)
+- [Blackletra](https://blackletra.com/)
 - [Collletttivo](https://www.collletttivo.it/) (Open Source)
 - [Commercial Type](https://commercialtype.com/)
 - [Displaay](https://displaay.net/)
+- [Florian Karsten Typefaces](https://fonts.floriankarsten.com/catalogue)
+- [Future Fonts](https://www.futurefonts.com/)
 - [Grilli Type](https://www.grillitype.com/typefaces)
 - [Hershey Noailles](http://hershey-noailles.luuse.io/)
 - [Hungarumlaut](https://hungarumlaut.com/)
 - [Kanon Foundry](https://www.kanonfoundry.com/)
+- [KH Type](https://khtype.com/)
+- [Klim Type Foundry](https://klim.co.nz/)
 - [Lineto](https://lineto.com/)
 - [Mass-Driver](https://mass-driver.com/)
 - [Metis Foundry](https://metis-foundry.com/catalogue/)
 - [Modern Type](https://www.modern-type.com/)
 - [NAN](https://www.nan.xyz/)
 - [Ohno Type](https://ohnotype.co/)
+- [Or Type](https://ortype.is/)
 - [Pangram Pangram](https://pangrampangram.com/)
 - [Production Type](https://productiontype.com/)
 - [Sharp Type](https://www.sharptype.co/)
 - [Swiss Typefaces](https://www.swisstypefaces.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) (Open Source)
+- [Tmpstate](https://type.tmpstate.net/)
 - [Tunera](https://www.tunera.xyz/)
+- [Typefaces Pizza](https://typefaces.pizza/)
 - [Uncut](https://uncut.wtf/)
