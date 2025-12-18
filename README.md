@@ -2,7 +2,7 @@
 
 > A curated list of modern fonts and type foundries
 
-List featuring a curated selection of contemporary typefaces and type foundries, organized by classification and alphabetically.
+List featuring a curated selection of contemporary typefaces and type foundries, organized by classification.
 
 All these fonts work well for modern interfaces and web design, and offer a way for your project to standout.
 
@@ -19,23 +19,23 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 
 ### Monospaced
 
-- [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+co&categoryFilters=Appearance:/Monospace/Monospace)
-- [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono)
-- [Geist Mono](https://fonts.google.com/specimen/Geist+Mono?query=geist+mono&categoryFilters=Appearance:/Monospace/Monospace)
+- [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+co&categoryFilters=Appearance:/Monospace/Monospace) [Free]
+- [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono) [Free]
+- [Geist Mono](https://fonts.google.com/specimen/Geist+Mono?query=geist+mono&categoryFilters=Appearance:/Monospace/Monospace) [Free]
 - [MD IO](https://mass-driver.com/typefaces/md-io/)
 - [Model Standard](https://typefaces.pizza/type/modelstandard)
-- [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace)
+- [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace) [Free]
 
 ### Sans Serif
 
 - [Authentic Sans](https://authentic.website/sans)
 - [Circular](https://lineto.com/typefaces/circular/)
 - [Euclid](https://www.swisstypefaces.com/fonts/euclid/)
-- [Geist](https://vercel.com/font)  
+- [Geist](https://vercel.com/font) [Free]
 - [Gramatika](https://type.tmpstate.net/preview/Gramatika/Regular/try/)
-- [Inter](https://fonts.google.com/specimen/Inter?query=inter)
+- [Inter](https://fonts.google.com/specimen/Inter?query=inter) [Free]
 - [Recife](https://www.luzi-type.ch/recife)
-- [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans)
+- [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans) [Free]
 
 #### Grotesque
 
@@ -60,7 +60,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [ABCDinamo](https://abcdinamo.com/)
 - [Basement Foundry](https://foundry.basement.studio/)
 - [Blackletra](https://blackletra.com/)
-- [Collletttivo](https://www.collletttivo.it/) (Open Source)
+- [Collletttivo](https://www.collletttivo.it/) [Open Source]
 - [Commercial Type](https://commercialtype.com/)
 - [Displaay](https://displaay.net/)
 - [Florian Karsten Typefaces](https://fonts.floriankarsten.com/catalogue)
@@ -89,7 +89,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Schick Toikka](https://www.schick-toikka.com/)
 - [Sharp Type](https://www.sharptype.co/)
 - [Swiss Typefaces](https://www.swisstypefaces.com/)
-- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) (Open Source)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) [Open Source]
 - [Tmpstate](https://type.tmpstate.net/)
 - [Tunera](https://www.tunera.xyz/)
 - [Typefaces Pizza](https://typefaces.pizza/)
