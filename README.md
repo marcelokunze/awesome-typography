@@ -4,6 +4,8 @@
 
 List featuring a curated selection of contemporary typefaces and type foundries, organized by classification.
 
+The listed fonts/foundries follow these criterias: they are modern, production-ready, support Latin characters, and are available in web font formats (WOFF2 or WOFF).
+
 All these fonts work well for modern interfaces and web design, and offer a way for your project to standout. Everyone is welcomed to [contribute](CONTRIBUTE.md).
 
 ## Contents

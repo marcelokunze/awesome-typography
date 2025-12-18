@@ -41,6 +41,17 @@ Thank you for your interest in contributing to Awesome Typography! This document
    - Produces quality contemporary typefaces
    - Has an active website
 
+## Quality Standards
+
+All fonts added to this list must meet the following criteria:
+
+- **Modern and appropriate for web design**: The font should be suitable for contemporary interfaces and web applications
+- **Complete and finished**: The font should be a finished, production-ready typeface (not beta or incomplete)
+- **Latin character support**: The font must include full Latin character set support
+- **Web font format**: The font should be available in WOFF2 format (preferred) or WOFF format for web use
+
+⚠️ If the font does not follow the criteria and/or is not personally interesting to the maintainer, the pull request will be respectfully rejected.
+
 ## Guidelines
 
 - Keep descriptions neutral and factual
