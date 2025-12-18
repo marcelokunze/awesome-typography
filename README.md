@@ -14,6 +14,7 @@ A curated list of modern fonts and type foundries
 
 ### Sans Serif
 
+- [Authentic Sans](https://authentic.website/sans)
 - [Circular](https://lineto.com/typefaces/circular/)
 - [Euclid](https://www.swisstypefaces.com/fonts/euclid/)
 - [Geist](https://vercel.com/font)
