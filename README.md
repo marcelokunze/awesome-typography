@@ -4,7 +4,7 @@
 
 List featuring a curated selection of contemporary typefaces and type foundries, organized by classification.
 
-All these fonts work well for modern interfaces and web design, and offer a way for your project to standout.
+All these fonts work well for modern interfaces and web design, and offer a way for your project to standout. Everyone is welcomed to [contribute](CONTRIBUTE.md).
 
 ## Contents
 
