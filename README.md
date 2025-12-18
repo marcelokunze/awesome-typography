@@ -11,7 +11,6 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Fonts](#fonts)
   - [Monospaced](#monospaced)
   - [Sans Serif](#sans-serif)
-    - [Grotesque](#grotesque)
   - [Experimental](#experimental)
 - [Foundries](#foundries)
 
@@ -30,23 +29,20 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 
 - [Authentic Sans](https://authentic.website/sans)
 - [Circular](https://lineto.com/typefaces/circular/)
+- [Ekstra](https://goodtypefoundry.com/ekstra/) [Grotesk]
 - [Euclid](https://www.swisstypefaces.com/fonts/euclid/)
+- [FK Grotesk Neue](https://fonts.floriankarsten.com/fk-grotesk-neue) [Grotesk]
+- [Founders Grotesk](https://klim.co.nz/collections/founders-grotesk/) [Grotesk]
 - [Geist](https://vercel.com/font) [Free]
 - [Gramatika](https://type.tmpstate.net/preview/Gramatika/Regular/try/)
+- [GT America](https://www.grillitype.com/typeface/gt-america) [Grotesk]
+- [Helvetica](https://www.monotype.com/fonts/helvetica) [Grotesk]
 - [Inter](https://fonts.google.com/specimen/Inter?query=inter) [Free]
+- [Neue Haas Grotesk](https://commercialtype.com/catalog/neue_haas_grotesk) [Grotesk]
 - [Recife](https://www.luzi-type.ch/recife)
+- [Scto Grotesk A](https://www.schick-toikka.com/scto-grotesk-a) [Grotesk]
 - [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans) [Free]
-
-#### Grotesque
-
-- [Ekstra](https://goodtypefoundry.com/ekstra/)
-- [FK Grotesk Neue](https://fonts.floriankarsten.com/fk-grotesk-neue)
-- [Founders Grotesk](https://klim.co.nz/collections/founders-grotesk/)
-- [GT America](https://www.grillitype.com/typeface/gt-america)
-- [Helvetica](https://www.monotype.com/fonts/helvetica)
-- [Neue Haas Grotesk](https://commercialtype.com/catalog/neue_haas_grotesk)
-- [Scto Grotesk A](https://www.schick-toikka.com/scto-grotesk-a)
-- [Steinbeck](https://type.tmpstate.net/preview/Steinbeck/Regular/try/)
+- [Steinbeck](https://type.tmpstate.net/preview/Steinbeck/Regular/try/) [Grotesk]
 
 ### Experimental
 
