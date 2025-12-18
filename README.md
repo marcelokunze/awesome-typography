@@ -1,4 +1,4 @@
-# Awesome Typography
+# Awesome Typography [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 A curated list of modern fonts and type foundries
 
 ## Fonts
