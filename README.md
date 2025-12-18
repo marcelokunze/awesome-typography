@@ -2,7 +2,18 @@
 
 > A curated list of modern fonts and type foundries
 
-This list features a selection of contemporary typefaces and type foundries, organized by classification for easy browsing and discovery.
+List featuring a curated selection of contemporary typefaces and type foundries, organized by classification and alphabetically.
+
+All these fonts work well for modern interfaces and web design, and offer a way for your project to standout.
+
+## Contents
+
+- [Fonts](#fonts)
+  - [Monospaced](#monospaced)
+  - [Sans Serif](#sans-serif)
+    - [Grotesque](#grotesque)
+  - [Experimental](#experimental)
+- [Foundries](#foundries)
 
 ## Fonts
 
@@ -20,7 +31,7 @@ This list features a selection of contemporary typefaces and type foundries, org
 - [Authentic Sans](https://authentic.website/sans)
 - [Circular](https://lineto.com/typefaces/circular/)
 - [Euclid](https://www.swisstypefaces.com/fonts/euclid/)
-- [Geist](https://vercel.com/font)
+- [Geist](https://vercel.com/font)  
 - [Gramatika](https://type.tmpstate.net/preview/Gramatika/Regular/try/)
 - [Inter](https://fonts.google.com/specimen/Inter?query=inter)
 - [Recife](https://www.luzi-type.ch/recife)
