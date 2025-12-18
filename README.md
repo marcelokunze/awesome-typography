@@ -1,5 +1,8 @@
 # Awesome Typography [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-A curated list of modern fonts and type foundries
+
+> A curated list of modern fonts and type foundries
+
+This list features a selection of contemporary typefaces and type foundries, organized by classification for easy browsing and discovery.
 
 ## Fonts
 
