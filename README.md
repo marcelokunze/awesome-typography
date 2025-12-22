@@ -23,6 +23,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+co&categoryFilters=Appearance:/Monospace/Monospace) [Free]
 - [Fragment Mono](https://fonts.google.com/specimen/Fragment+Mono) [Free]
 - [Geist Mono](https://fonts.google.com/specimen/Geist+Mono?query=geist+mono&categoryFilters=Appearance:/Monospace/Monospace) [Free]
+- [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 - [MD IO](https://mass-driver.com/typefaces/md-io/)
 - [Model Standard](https://typefaces.pizza/type/modelstandard)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace) [Free]
