@@ -8,15 +8,14 @@ Thank you for your interest in contributing to Awesome Typography! This document
 
 1. Choose the appropriate category:
    - **Monospaced**: Fonts with fixed-width characters
-   - **Sans Serif**: Sans-serif fonts (use `[Grotesk]` label for grotesque fonts)
+   - **Sans Serif**: Sans-serif fonts
    - **Experimental**: Unique or experimental typefaces
 
 2. Format your entry:
    ```markdown
-   - [Font Name](https://link-to-font.com/) [Free] [Grotesk]
+   - [Font Name](https://link-to-font.com/) [Free]
    ```
    - Use `[Free]` for free/open-source fonts (e.g., Google Fonts)
-   - Use `[Grotesk]` for grotesque sans-serif fonts
    - Links should point directly to the font's page
 
 3. Maintain alphabetical order within each category
