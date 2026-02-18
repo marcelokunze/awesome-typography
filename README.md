@@ -27,6 +27,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [MD IO](https://mass-driver.com/typefaces/md-io/)
 - [Model Standard](https://typefaces.pizza/type/modelstandard)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace) [Free]
+- [TRT Terminal Mono](https://supply.family/shop/trt-terminal-mono/)
 
 ### Sans Serif
 
