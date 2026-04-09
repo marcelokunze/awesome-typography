@@ -53,6 +53,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 ### Experimental
 
 - [Adhesion](https://foundry.basement.studio/fonts/adhesion)
+- [Geist Pixel](https://vercel.com/font?type=pixel) [Free]
 - [MD Thermochrome](https://mass-driver.com/typefaces/md-thermochrome/)
 - [Raskal Oner](https://www.swisstypefaces.com/fonts/raskal-oner/?r=1762280414#about)
 
