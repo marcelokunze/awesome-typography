@@ -13,6 +13,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Fonts](#fonts)
   - [Monospaced](#monospaced)
   - [Sans Serif](#sans-serif)
+  - [Serif](#serif)
   - [Experimental](#experimental)
 - [Foundries](#foundries)
 
@@ -49,6 +50,10 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Scto Grotesk A](https://www.schick-toikka.com/scto-grotesk-a)
 - [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans) [Free]
 - [Steinbeck](https://type.tmpstate.net/preview/Steinbeck/Regular/try/)
+
+### Serif
+
+- [Literatura](https://type.tmpstate.net/preview/Literatura/Past%20Regular/try/)
 
 ### Experimental
 
