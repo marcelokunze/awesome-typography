@@ -59,6 +59,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 
 - [Adhesion](https://foundry.basement.studio/fonts/adhesion)
 - [Geist Pixel](https://vercel.com/font?type=pixel) [Free]
+- [IBM EGA 8x14](https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_ega_8x14) [Free]
 - [MD Thermochrome](https://mass-driver.com/typefaces/md-thermochrome/)
 - [Raskal Oner](https://www.swisstypefaces.com/fonts/raskal-oner/?r=1762280414#about)
 
