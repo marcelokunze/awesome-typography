@@ -32,6 +32,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 
 ### Sans Serif
 
+- [Akkurat](https://lineto.com/typefaces/akkurat)
 - [APK Protocol](https://apk-type.com/family/apk-protocol/)
 - [Authentic Sans](https://authentic.website/sans)
 - [Circular](https://lineto.com/typefaces/circular/)
