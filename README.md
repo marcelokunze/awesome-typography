@@ -28,6 +28,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [GT Pressura Mono](https://www.grillitype.com/typeface/gt-pressura)
 - [MD IO](https://mass-driver.com/typefaces/md-io/)
 - [Model Standard](https://typefaces.pizza/type/modelstandard)
+- [Obel Mono](https://typographic.systems/obel-mono) [Free]
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?categoryFilters=Appearance:%2FMonospace%2FMonospace) [Free]
 - [TRT Terminal Mono](https://supply.family/shop/trt-terminal-mono/)
 
