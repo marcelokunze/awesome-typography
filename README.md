@@ -54,6 +54,8 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Scto Grotesk A](https://www.schick-toikka.com/scto-grotesk-a)
 - [Stack Sans](https://fonts.google.com/specimen/Stack+Sans+Text?query=stack+sans) [Free]
 - [Steinbeck](https://type.tmpstate.net/preview/Steinbeck/Regular/try/)
+- [Unison Geometric](https://geoform.co/fonts/unison-geometric)
+- [Waldenburg](https://kimeracorp.eu/typefaces/waldenburg)
 
 ### Serif
 
@@ -86,6 +88,7 @@ All these fonts work well for modern interfaces and web design, and offer a way 
 - [Hungarumlaut](https://hungarumlaut.com/)
 - [Kanon Foundry](https://www.kanonfoundry.com/)
 - [KH Type](https://khtype.com/)
+- [Kimera](https://kimeracorp.eu/)
 - [Klim Type Foundry](https://klim.co.nz/)
 - [Lineto](https://lineto.com/)
 - [Luzi Type](https://www.luzi-type.ch/)
